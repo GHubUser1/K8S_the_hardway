@@ -38,7 +38,7 @@ wget "https://storage.googleapis.com/kubernetes-release/release/v1.18.6/bin/linu
 chmod +x kubectl
 ./kubectl run test --image=nginx
 ```
-![](./Capture.png)
+![](K8S_the_hardway/Capture.PNG)
 
 
 
